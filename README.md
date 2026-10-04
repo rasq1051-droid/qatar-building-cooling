@@ -21,8 +21,8 @@ tariffs, how long do they take to pay for themselves?
 ## Current progress
 
 - [ ] Environment set up
-- [ ] Weather data downloaded
-- [ ] Single-wall heat flow model
+- [x] Weather data downloaded
+- [x] Single-wall heat flow model
 - [ ] Full room model (roof, walls, windows)
 - [ ] Cooling strategies tested
 - [ ] Economic analysis
