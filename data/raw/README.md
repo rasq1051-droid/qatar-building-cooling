@@ -1,3 +1,4 @@
+[POWER_Point_Hourly_20230101_20231231_025d28N_051d53E_LST.csv](https://github.com/user-attachments/files/33021636/POWER_Point_Hourly_20230101_20231231_025d28N_051d53E_LST.csv)
 # Raw data
 
 Original data files downloaded from external sources. Files in this folder are never edited by hand, so the original stays intact.
