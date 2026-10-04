@@ -4,9 +4,7 @@ Notebooks for the heat-transfer model. Run them in order. Each one needs the NAS
 
 ## Notebooks
 
-- `01_single_wall_model.ipynb`: heat conduction through a 10 m² wall, Q = U × A × (T_out − 24 °C). Compares a plain wall (U = 2.0) with an insulated wall (U = 0.5). Result: 75% reduction.
-- `02_roof_model.ipynb`: adds solar heating with the sol-air temperature. Compares a dark roof (α = 0.85) with a white coating (α = 0.35) on a 100 m² roof. Result: 38% reduction.
-
+- `01_wall_and_roof_model.ipynb`: heat conduction through a 10 m² wall (plain U = 2.0 vs insulated U = 0.5, 75% reduction), then a 100 m² roof with solar heating via the sol-air temperature (dark α = 0.85 vs white coating α = 0.35, 38% reduction).
 ## How to run
 
 Open a notebook in Google Colab, upload the CSV from `data/raw/`, and run the cells. The `skiprows=10` setting skips the NASA header lines.
